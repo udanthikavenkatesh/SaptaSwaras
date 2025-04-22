@@ -4,6 +4,9 @@ A deep learning-based project for extracting musical notes (swaras) and classify
 
 ---
 
+![image](https://github.com/user-attachments/assets/db770004-bcf8-4585-92e4-ce43d11c9731)
+
+
 ## 📁 Project Overview
 
 ### SaptaSwaras
